@@ -17,7 +17,7 @@ Hello there. I’m Ray 👋
 
 - 💻 I'm a Software Engineer
 - 🌱 I’m also a fulltime student pursuing a Software Development degree in WGU
--
+
 
 
 <!---
